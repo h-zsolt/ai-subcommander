@@ -1,0 +1,5 @@
+Some of RTS Toolkit Free parts uses 3rd party tools and this file will highlight what is being used as well as links to relevant projects:
+
+1. KDTree class (http://forum.unity3d.com/threads/29923-Point-nearest-neighbour-search-class) is used across RTS Toolkit Free for accelerating search of nearest neighbours. The code has been adopted to RTS Toolkit Free needs.
+
+2. Camera Marquee tutorial (http://paulbutera.wordpress.com/2013/04/04/unity­rts­tutorial­part­1­marquee­selection­of­units/) was adopted to implement rectangular units selection. The code was adopted to RTS Toolkit Free needs.

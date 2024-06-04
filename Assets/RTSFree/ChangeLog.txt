@@ -1,0 +1,21 @@
+Version 2022.1.1 :
+		Upgrade for Unity 2020.3, 2021.3 and 2022.2 compatibility.
+--------------------------------------------------------------------------------------
+Version 2020.2.1 :
+		All RTS Toolkit Free code is now moved to RTSToolkitFree namespace. This allows developers to include other packages safely where classes can have the same name as in RTS Toolkit Free.
+		Added ThirdPartyNotices.txt file which includes information about usages of 3rd party tools in RTS Toolkit Free.
+		Improved Search phase to work correctly with multiple nations in the scene.
+		Coroutines in BattleSystem has been moved into custom update. This eliminates potential race conditions and provide smoother calculations load between frames.
+		Removed "Free" from all class names.
+		Added Stop, Move and Attack buttons for basic unit controls.
+		Multiple Unity versions (2018.4.31, 2019.4.18 and 2020.2.2) support for RTS Toolkit version 2020.2.1.
+--------------------------------------------------------------------------------------
+Version 2020.2 :
+		Upgrade for Unity 2020.2 compatibility
+		Code cleanup
+		Added basic selection marks and health bars
+		Added ability to control players units in order to move and attack (by default cube units)
+--------------------------------------------------------------------------------------
+Version 1.4 :
+		Upgrade for Unity 2019.2 compatibility
+--------------------------------------------------------------------------------------
